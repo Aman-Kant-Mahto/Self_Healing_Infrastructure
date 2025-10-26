@@ -1,0 +1,10 @@
+global:
+  resolve_timeout: 5s
+
+route:
+  receiver: 'ansible-webhook'
+
+receivers:
+  - name: 'ansible-webhook'
+    webhook_configs:
+      - url: 'http://host.docker.internal:5001/'
