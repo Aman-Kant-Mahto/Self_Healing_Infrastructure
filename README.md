@@ -139,22 +139,22 @@ docker stop nginx-demo
    * [ ] Screenshot when NGINX is UP
      (<img width="1366" height="768" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/662793d8-b726-43b3-ae2c-1fe4c1b792b9" />)
    * [ ] Screenshot when NGINX is DOWN
-     ![Prometheus Target](<img width="1366" height="768" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/082c216e-686d-4da9-98d6-9ec3c8574c78" />)
+     (<img width="1366" height="768" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/082c216e-686d-4da9-98d6-9ec3c8574c78" />)
 
 2. **Alertmanager Alert**
 
    * [ ] Screenshot showing “NginxDown” firing alert
-     ![Alertmanager Alert](<img width="1366" height="768" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/8b5192e3-255b-470b-8c00-2b38bbae313d" />)
+     (<img width="1366" height="768" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/8b5192e3-255b-470b-8c00-2b38bbae313d" />)
 
 3. **Webhook Trigger**
 
    * [ ] Screenshot of Flask logs receiving POST
-     ![Flask Webhook](<img width="1366" height="768" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/d5ea82d2-e15a-482e-a10e-e4f2af14d64e" />)
+     (<img width="1366" height="768" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/d5ea82d2-e15a-482e-a10e-e4f2af14d64e" />)
 
 4. **NGINX Auto-Restart**
 
    * [ ] Screenshot of Ansible playbook running OR `docker ps` showing container UP
-     ![NGINX Restarted](<img width="1366" height="768" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/e19aa5cd-f016-44fe-b7e1-0aac771a57b3" />)
+     (<img width="1366" height="768" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/e19aa5cd-f016-44fe-b7e1-0aac771a57b3" />)
 
 ---
 
