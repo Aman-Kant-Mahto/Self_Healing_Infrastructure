@@ -1,10 +1,3 @@
-Perfect! Let’s create a **full, detailed README.md** for your **Self-Healing Infrastructure with Prometheus, Alertmanager & Ansible** project. I’ll structure it professionally, explain every part, and leave placeholders for screenshots/logs so it’s ready to push to GitHub.
-
----
-
-# **README.md: Self-Healing Infrastructure Demo**
-
-````markdown
 # Self-Healing Infrastructure Demo
 
 This project demonstrates a **self-healing infrastructure** using **Prometheus**, **Alertmanager**, **Ansible**, and **Flask**.  
@@ -44,7 +37,6 @@ self-healing-demo/
 ├── restart-nginx.yml       # Ansible playbook to restart NGINX
 ├── webhook_server.py       # Flask webhook listener
 └── README.md
-````
 
 ---
 
@@ -145,7 +137,7 @@ docker stop nginx-demo
 1. **Prometheus Target (UP/DOWN)**
 
    * [ ] Screenshot when NGINX is UP
-     ![Prometheus Target](<img width="1366" height="768" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/662793d8-b726-43b3-ae2c-1fe4c1b792b9" />)
+     (<img width="1366" height="768" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/662793d8-b726-43b3-ae2c-1fe4c1b792b9" />)
    * [ ] Screenshot when NGINX is DOWN
      ![Prometheus Target](<img width="1366" height="768" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/082c216e-686d-4da9-98d6-9ec3c8574c78" />)
 
